@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, my name's Mike! 👋
+
+- 🧪 I'm a co-creator of DeSolver, a Node.js GraphQL framework that provides a modular API for resolver composition.
+- 😄 I enjoy working on projects in TypeScript, React, Express and GraphQL.
+- 🙌 I’m looking to contribute to any interesting open source projects.
+- 🍜 I love noodles.
 
 <!--
 **mckchan13/mckchan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
