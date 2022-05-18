@@ -1,7 +1,7 @@
 ### Hi there, my name's Mike! 👋
 
-- 🧪 I'm a co-creator of DeSolver, a Node.js GraphQL framework that provides a modular API for resolver composition.
-- 😄 I enjoy working on projects in TypeScript, React, Express and GraphQL.
+- 🧪 Co-creator of DeSolver, a Node.js GraphQL framework that provides a modular API for resolver composition.
+- 😄 I enjoy working on projects in TypeScript, React, Node, Express and GraphQL.
 - 🙌 I’m looking to contribute to any interesting open source projects.
 - 🍜 I love noodles.
 
